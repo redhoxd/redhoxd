@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/redhoxd" target="blank"><img src="https://img.shields.io/twitter/follow/redhead?logo=twitter&style=for-the-badge" alt="redhoxd" /></a> </p>
 
-- 🌱 I’m currently learning **Hackintosh**
+- 🌱 I’m currently learning **Kotlin,Flutter,Dart**
 
 - 💬 Ask me about **MacOS,Windows,Linux**
 
