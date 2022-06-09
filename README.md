@@ -1,13 +1,14 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muhammad Redho</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif”>
-<![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redhead&label=Profile%20views&color=0e75b6&style=flat" alt="redhead" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redhead" alt="redhead" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/redhead" target="blank"><img src="https://img.shields.io/twitter/follow/redhead?logo=twitter&style=for-the-badge" alt="redhead" /></a> </p>
+<p align="left"> <a href="https://twitter.com/redhoxd" target="blank"><img src="https://img.shields.io/twitter/follow/redhead?logo=twitter&style=for-the-badge" alt="redhead" /></a> </p>
 
 - 🌱 I’m currently learning **Hackintosh**
 
