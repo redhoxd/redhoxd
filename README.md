@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=redhead&show_icons=true&locale=en&layout=compact" alt="redhoxd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=red&" alt="redhoxd" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redhead&" alt="redhead" /></p>
